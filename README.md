@@ -1,7 +1,16 @@
 # Sales-Management-Power-BI-and-SQL-
-Using SQL and Power BI to clean and visualize data
+### Using SQL and Power BI to clean and visualize data  
 
-Database used is the AdventureWorks sample database, that can be found here:
-https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms  
+Refer required business request and business demand overview to understand what to do  
 
-Also, has been uploaded. 
+Database used is the AdventureWorks sample database  
+
+Required tables have been edited using SQL, converted to csv files and uploaded to Power BI  
+
+Finished Sales Overview Dashboard uploaded  
+
+Reference (Data Analyst Portfolio Project- Analyze with Ali):  
+https://www.youtube.com/watch?v=z7o5Wju-PZg&list=PLMfXakCUhXsEUtk8c0zWr4whamGxLhAu0&index=1  
+
+Database can be found here:  
+https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
