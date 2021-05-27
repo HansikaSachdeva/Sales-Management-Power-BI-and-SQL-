@@ -5,7 +5,7 @@ Refer required business request and business demand overview to understand what 
 
 Database used is the AdventureWorks sample database  
 
-Required tables have been edited using SQL, converted to csv files and uploaded to Power BI  
+Required tables have been edited using SQL, converted to csv files and uploaded to Power BI. Version 1 are the original tables, and version 2 have been cleaned and edited according to requirements.   
 
 Finished Sales Overview Dashboard uploaded  
 
