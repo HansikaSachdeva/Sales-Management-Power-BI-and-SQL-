@@ -1,5 +1,8 @@
 # Sales-Management-Power-BI-and-SQL-
 ### Using SQL and Power BI to clean and visualize data  
+### Dashboard  
+
+
 
 Refer required business request and business demand overview to understand what to do  
 
